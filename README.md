@@ -42,4 +42,3 @@ O projeto está estruturado em vários módulos abrangentes, cada um desenvolvid
 ## Conclusão
 Através de análise meticulosa de dados, engenharia de atributos e ajuste de modelos, este projeto previu com sucesso o pouso do primeiro estágio do Falcon 9. Os insights obtidos são inestimáveis para estimar custos de lançamento e auxiliar empresas em suas licitações competitivas contra a SpaceX.
 
-## Estrutura do Repositório
